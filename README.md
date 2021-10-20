@@ -2,7 +2,7 @@
 - 👀 I’m interested in Veri bilimi 
 - 🌱 I’m currently learning ...python programlamayı ve tensorflow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...yucemelike01@gmail.com
 
 <!---
 mlikeyce/mlikeyce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
