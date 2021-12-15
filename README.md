@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlikeyce
+- 👋 Hi, I’m @Melike Yüce
 - 👀 I’m interested in Veri bilimi ve frondend web development
 - 🌱 I’m currently learning ...python programlamayı ve tensorflow,node.js
 - 💞️ I’m looking to collaborate on ...
